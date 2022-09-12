@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#loader{
+   
+    margin-top:40%;
+    padding: 30px 30px;
+
+}
+
+.order_call {
+ color: #fff;
+ background-color: black;
+ border: 6px solid rgb(221, 139, 17);
+ 
+}
+.order_call :hover{
+    color: #000;  
+    background-color: white;
+    outline: none;
+}
+
+
+
+.overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 125%;
+    bottom: 0;
+    z-index: -1;
+  }
+  .nav-link :active {
+      color:white;
+  }
+  #serchbox{
+      width: 900;
+  }
+ 
+  
+  
+  
+ 
+ 
